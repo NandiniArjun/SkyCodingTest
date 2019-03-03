@@ -2,7 +2,6 @@
 
 Run the test cases:
 
-1) EligibilityServiceTest
-2) RewardsTest
+1) ParentalControlServiceImplTest
 
 as a java in IntelliJ or Eclipse
